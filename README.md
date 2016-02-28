@@ -5,6 +5,6 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is avalilable at: https://thisomimie.shinyapps.io/publictoilet/
 
-The presentation is available at: http://thisomimie.github.io/data_products_slidify/index
+The presentation is available at: http://rpubs.com/thissomimie/publictoilets
 
 Files for the presentation are avalilable on the GitHub: https://github.com/thissomimie/dataproducts/
